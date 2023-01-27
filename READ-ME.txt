@@ -1,6 +1,6 @@
   =>  Template Name    : SSMS COLLEGE ATHANI- HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/elearning-html-template
+  =>  Template Link    : https://htmlcodex.com/SSMS COLLEGE -html-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
